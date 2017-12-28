@@ -13,5 +13,4 @@ return playlist;
 var playlist = {artistName: 'playlist'}
 
 function updatePlaylist(playlist, artistName, songTitle) {
-   return Object.{[artistName] = songTitle};  
 }
