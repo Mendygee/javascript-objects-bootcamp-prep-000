@@ -1,4 +1,4 @@
-var playlist = {'Paul Simon': 'American Tune'};
+/*var playlist = {'Paul Simon': 'American Tune'};
 
 function updatePlaylist(playlist, artistName, song) {
   playlist[artistName] = song;
@@ -9,3 +9,5 @@ function removeFromPlaylist(playlist, artistName) {
 delete playlist[artistName]
 return playlist;
 }
+*/
+var playlist = {artistName: 'playlist'}
