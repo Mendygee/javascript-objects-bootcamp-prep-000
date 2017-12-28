@@ -11,3 +11,7 @@ return playlist;
 }
 */
 var playlist = {artistName: 'playlist'}
+
+function updatePlaylist(playlist, artistName, songTitle) {
+   playlist.artistName = songTitle;  
+}
